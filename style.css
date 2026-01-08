@@ -1,0 +1,11 @@
+/* 给整个页面上色 */
+body {
+    background-color: #f5f5dc; /* 经典的米黄色 */
+    font-family: sans-serif;   /* 顺便换个不累眼睛的字体 */
+}
+
+/* 顺便让主标题变个深绿色，看起来更有机健康 */
+h1 {
+    color: #2e8b57;
+    text-align: center;
+}
